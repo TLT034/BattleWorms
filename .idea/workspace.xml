@@ -1,13 +1,20 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="178b6046-4589-46bf-827f-4b52e64571ff" name="Default Changelist" comment="" />
+    <list default="true" id="178b6046-4589-46bf-827f-4b52e64571ff" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/wormy.py" beforeDir="false" afterPath="$PROJECT_DIR$/wormy.py" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="ProjectId" id="1W2tCGPXFO98j57R9jH9fsji0vi" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showExcludedFiles" value="true" />
@@ -47,7 +54,8 @@
       <option name="presentableId" value="Default" />
       <updated>1578359387393</updated>
       <workItem from="1578359412810" duration="1259000" />
-      <workItem from="1578425567987" duration="11439000" />
+      <workItem from="1578425567987" duration="11850000" />
+      <workItem from="1578504590773" duration="15088000" />
     </task>
     <servers />
   </component>
@@ -63,9 +71,9 @@
       <screen x="0" y="0" width="1620" height="1040" />
     </state>
     <state x="313" y="164" key="SettingsEditor/0.0.1620.1040@0.0.1620.1040" timestamp="1578361914720" />
-    <state x="506" y="346" key="com.intellij.ide.util.TipDialog" timestamp="1578425611047">
+    <state x="506" y="346" key="com.intellij.ide.util.TipDialog" timestamp="1578504595893">
       <screen x="0" y="0" width="1620" height="1040" />
     </state>
-    <state x="506" y="346" key="com.intellij.ide.util.TipDialog/0.0.1620.1040@0.0.1620.1040" timestamp="1578425611047" />
+    <state x="506" y="346" key="com.intellij.ide.util.TipDialog/0.0.1620.1040@0.0.1620.1040" timestamp="1578504595893" />
   </component>
 </project>
