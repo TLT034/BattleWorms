@@ -3,6 +3,7 @@
   <component name="ChangeListManager">
     <list default="true" id="178b6046-4589-46bf-827f-4b52e64571ff" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/original.py" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/wormy.py" beforeDir="false" afterPath="$PROJECT_DIR$/wormy.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -24,7 +25,7 @@
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
-    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
+    <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
@@ -55,7 +56,8 @@
       <updated>1578359387393</updated>
       <workItem from="1578359412810" duration="1259000" />
       <workItem from="1578425567987" duration="11850000" />
-      <workItem from="1578504590773" duration="15088000" />
+      <workItem from="1578504590773" duration="21681000" />
+      <workItem from="1578547944739" duration="21465000" />
     </task>
     <servers />
   </component>
@@ -67,13 +69,13 @@
       <screen x="0" y="0" width="1620" height="1040" />
     </state>
     <state x="592" y="296" key="FileChooserDialogImpl/0.0.1620.1040@0.0.1620.1040" timestamp="1578361795668" />
-    <state x="313" y="164" key="SettingsEditor" timestamp="1578361914720">
+    <state x="313" y="164" key="SettingsEditor" timestamp="1578600849020">
       <screen x="0" y="0" width="1620" height="1040" />
     </state>
-    <state x="313" y="164" key="SettingsEditor/0.0.1620.1040@0.0.1620.1040" timestamp="1578361914720" />
-    <state x="506" y="346" key="com.intellij.ide.util.TipDialog" timestamp="1578504595893">
+    <state x="313" y="164" key="SettingsEditor/0.0.1620.1040@0.0.1620.1040" timestamp="1578600849020" />
+    <state x="506" y="346" key="com.intellij.ide.util.TipDialog" timestamp="1578548244283">
       <screen x="0" y="0" width="1620" height="1040" />
     </state>
-    <state x="506" y="346" key="com.intellij.ide.util.TipDialog/0.0.1620.1040@0.0.1620.1040" timestamp="1578504595893" />
+    <state x="506" y="346" key="com.intellij.ide.util.TipDialog/0.0.1620.1040@0.0.1620.1040" timestamp="1578548244283" />
   </component>
 </project>
