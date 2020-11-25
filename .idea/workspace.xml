@@ -2,8 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="178b6046-4589-46bf-827f-4b52e64571ff" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/cs5110-thomas-tristan-assn1.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/cs5110-thomas-tristan-assn1.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/wormy.py" beforeDir="false" afterPath="$PROJECT_DIR$/wormy.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -23,13 +24,59 @@
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
-    <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/wormy.py" />
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
       <recent name="C:\Users\trist\repos\school\cs5110\cs5110-thomas-tristan-assn1" />
     </key>
+  </component>
+  <component name="RunManager">
+    <configuration default="true" type="PythonConfigurationType" factoryName="Python">
+      <module name="cs5110-thomas-tristan-assn1" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="wormy" type="PythonConfigurationType" factoryName="Python" nameIsGenerated="true">
+      <module name="cs5110-thomas-tristan-assn1" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/wormy.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
   </component>
   <component name="ServiceViewManager">
     <option name="viewStates">
@@ -60,6 +107,7 @@
       <workItem from="1578691877389" duration="189000" />
       <workItem from="1579634558270" duration="37000" />
       <workItem from="1579641532072" duration="68000" />
+      <workItem from="1606172450584" duration="1523000" />
     </task>
     <servers />
   </component>
@@ -67,17 +115,40 @@
     <option name="version" value="1" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="592" y="296" key="FileChooserDialogImpl" timestamp="1579634593036">
-      <screen x="0" y="0" width="1620" height="1040" />
+    <state x="1374" y="367" width="1092" height="706" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1606173153760">
+      <screen x="0" y="0" width="2560" height="1440" />
     </state>
-    <state x="592" y="296" key="FileChooserDialogImpl/0.0.1620.1040@0.0.1620.1040" timestamp="1579634593036" />
-    <state x="313" y="164" key="SettingsEditor" timestamp="1578600849020">
-      <screen x="0" y="0" width="1620" height="1040" />
+    <state x="1374" y="367" width="1092" height="706" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.2560.1440/-2160.-829.1440.2560@0.0.2560.1440" timestamp="1606173153760" />
+    <state x="1700" y="476" key="FileChooserDialogImpl" timestamp="1606173151293">
+      <screen x="0" y="0" width="2560" height="1440" />
     </state>
-    <state x="313" y="164" key="SettingsEditor/0.0.1620.1040@0.0.1620.1040" timestamp="1578600849020" />
-    <state x="506" y="346" key="com.intellij.ide.util.TipDialog" timestamp="1579634570903">
-      <screen x="0" y="0" width="1620" height="1040" />
+    <state x="1700" y="476" key="FileChooserDialogImpl/0.0.2560.1440/-2160.-829.1440.2560@0.0.2560.1440" timestamp="1606173151293" />
+    <state width="1232" height="395" key="GridCell.Tab.0.bottom" timestamp="1606174116502">
+      <screen x="0" y="0" width="2560" height="1440" />
     </state>
-    <state x="506" y="346" key="com.intellij.ide.util.TipDialog/0.0.1620.1040@0.0.1620.1040" timestamp="1579634570903" />
+    <state width="1232" height="395" key="GridCell.Tab.0.bottom/0.0.2560.1440/-2160.-829.1440.2560@0.0.2560.1440" timestamp="1606174116502" />
+    <state width="1232" height="395" key="GridCell.Tab.0.center" timestamp="1606174116502">
+      <screen x="0" y="0" width="2560" height="1440" />
+    </state>
+    <state width="1232" height="395" key="GridCell.Tab.0.center/0.0.2560.1440/-2160.-829.1440.2560@0.0.2560.1440" timestamp="1606174116502" />
+    <state width="1232" height="395" key="GridCell.Tab.0.left" timestamp="1606174116502">
+      <screen x="0" y="0" width="2560" height="1440" />
+    </state>
+    <state width="1232" height="395" key="GridCell.Tab.0.left/0.0.2560.1440/-2160.-829.1440.2560@0.0.2560.1440" timestamp="1606174116502" />
+    <state width="1232" height="395" key="GridCell.Tab.0.right" timestamp="1606174116502">
+      <screen x="0" y="0" width="2560" height="1440" />
+    </state>
+    <state width="1232" height="395" key="GridCell.Tab.0.right/0.0.2560.1440/-2160.-829.1440.2560@0.0.2560.1440" timestamp="1606174116502" />
+    <state x="1421" y="355" key="SettingsEditor" timestamp="1606172513483">
+      <screen x="0" y="0" width="2560" height="1440" />
+    </state>
+    <state x="1421" y="355" key="SettingsEditor/0.0.2560.1440/-2160.-829.1440.2560@0.0.2560.1440" timestamp="1606172513483" />
+    <state x="1616" y="536" key="com.intellij.ide.util.TipDialog" timestamp="1606172452359">
+      <screen x="0" y="0" width="2560" height="1440" />
+    </state>
+    <state x="1616" y="536" key="com.intellij.ide.util.TipDialog/0.0.2560.1440/-2160.-829.1440.2560@0.0.2560.1440" timestamp="1606172452359" />
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/cs5110_thomas_tristan_assn1$wormy.coverage" NAME="wormy Coverage Results" MODIFIED="1606174027776" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
   </component>
 </project>
